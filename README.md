@@ -1,0 +1,2 @@
+# blogTitleURL
+ブログのタイトルとURLの取得
